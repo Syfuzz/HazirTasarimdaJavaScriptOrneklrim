@@ -1,0 +1,288 @@
+@charset "utf-8";
+/* CSS Document */
+
+#ust {
+	background-color: #2b3a47;
+	background-image: url(images/ustbg.png);
+	background-repeat: repeat-x;
+	height: 375px;
+	width: 100%;
+	padding-top: 30px;
+}
+#ustic1 {
+	height: 96px;
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+}
+#logo {
+	float: left;
+	height: 96px;
+	width: 291px;
+}
+#girisalan {
+	background-image: url(images/ustgirisalan.png);
+	background-repeat: no-repeat;
+	float: left;
+	height: 45px;
+	width: 413px;
+	margin-left: 30px;
+	margin-right: 30px;
+	padding-top: 40px;
+	padding-left: 15px;
+	padding-right: 5px;
+}
+#girisalan input {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#telefon {
+	float: left;
+	height: 50px;
+	width: 154px;
+	padding-top: 14px;
+}
+#akordiyon {
+	height: 247px;
+	width: 955px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.resimicerik {
+	float: left;
+	height: 247px;
+	width: 0px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #F90;
+	border-bottom-color: #F90;
+	overflow: hidden;
+}
+#akresim1icerik {
+	background-image: url(images/1-1.jpg);
+}
+#akresim2icerik {
+	background-image: url(images/2-1.jpg);
+}
+#akresim3icerik {
+	background-image: url(images/3-1.jpg);
+}
+#akresim4icerik {
+	background-image: url(images/4-1.jpg);
+}
+#akresim5icerik {
+	background-image: url(images/5-1.jpg);
+}
+
+
+
+
+
+
+.resimbaslik {
+	float: left;
+	height: 247px;
+	width: 110px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #F90;
+	border-right-color: #F90;
+	border-bottom-color: #F90;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #F90;
+}
+.resimbaslikilk {
+	float: left;
+	height: 247px;
+	width: 110px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #F90;
+	border-right-color: #F90;
+	border-bottom-color: #F90;
+	border-left-color: #F90;
+}
+.resimicerikson {
+	float: left;
+	height: 247px;
+	width: 391px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #F90;
+	border-bottom-color: #F90;
+	overflow: hidden;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #F90;
+}
+#kayancubuk {
+	height: 40px;
+	width: 100%;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #9f7b2d;
+}
+#kayancubukorta {
+	height: 39px;
+	width: 955px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#tumduyurular {
+	height: 39px;
+	width: 233px;
+	background-image: url(images/mansetduyuru-bg.png);
+	background-repeat: no-repeat;
+	text-align: center;
+	float: left;
+}
+#kayanyazialani {
+	height: 29px;
+	width: 687px;
+	background-image: url(images/kayanalanbas.png);
+	background-repeat: no-repeat;
+	background-position: 10px;
+	float: left;
+	padding-left: 35px;
+	padding-top: 10px;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	background-color: #e1e2e6;
+}
+#orta {
+	height: 610px;
+	width: 955px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #CCC;
+}
+#ortasol {
+	float: left;
+	height: 610px;
+	width: 230px;
+	background-color: #2b3a47;
+	text-align: center;
+}
+#alt {
+	height: 200px;
+	width: 100%;
+	background-color: #13181c;
+}
+#ortasag1 {
+	float: left;
+	height: 300px;
+	width: 715px;
+	margin-left: 5px;
+	margin-top: 5px;
+	border: 1px solid #9f7b2d;
+}
+.turuncu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #F90;
+}
+#ortasag2 {
+	float: left;
+	height: 200px;
+	width: 715px;
+	margin-left: 5px;
+	color: #333;
+	margin-top: 10px;
+}
+.ortasagsinif {
+	float: left;
+	height: 83px;
+	width: 280px;
+	padding-top: 15px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #9f7b2d;
+	border-bottom-color: #9f7b2d;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+#ortasag2baslik {
+	background-color: #13181c;
+	float: left;
+	height: 25px;
+	width: 697px;
+	background-image: url(images/haberbas.png);
+	background-repeat: no-repeat;
+	background-position: 5px 7px;
+	padding-top: 5px;
+	padding-left: 20px;
+	color: #FFF;
+}
+#ortasag1resim {
+	float: left;
+	height: 300px;
+	width: 430px;
+}
+#kpt{
+	display: block;
+	position: fixed;
+	right:10px ;
+	bottom: 10px;
+	width: 220px;
+	height: 205px;
+	background-image:url("images/canlidestek2.png");
+	text-align: right;
+}
+#altsiyah{
+	width: 100%;
+	height: 200px;
+	background-color: black;
+}
+#cunter{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+}
+#cy{
+	width: 500px;
+	float: left;
+	color: white;
+	
+}
+#ch{
+	width:300px;
+	height:200px;
+	float: right;
+}
+#cy p{
+	height: 1px;
+}
+#harita{
+	transition:transform 2s;
+}
+#harita:hover{
+	transform:scale(1.3,1.3);
+}
